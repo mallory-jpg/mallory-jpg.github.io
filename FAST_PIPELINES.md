@@ -1,5 +1,5 @@
 layout: page 
-title: "About Me, @mallory-jpg" 
-permalink: /about-me
+title: "Fast Pipelines with Snowflake + S3" 
+permalink: /fast-pipelines
 
 # Fast Pipelines with Snowflake and S3
