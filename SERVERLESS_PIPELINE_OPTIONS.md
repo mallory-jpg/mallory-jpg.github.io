@@ -1,3 +1,7 @@
+layout: page 
+title: "About Me, @mallory-jpg" 
+permalink: /about-me
+
 # Serverless Pipeline Options: A Quick Comparison of EC2, ECS, & Kubernetes
 by `@mallory-jpg`
 
