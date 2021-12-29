@@ -1,1 +1,2 @@
-# mallory-jpg.github.io
+# Mallory's Homepage
+## mallory-jpg.github.io
