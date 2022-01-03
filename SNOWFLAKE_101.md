@@ -1,4 +1,4 @@
-# Snowflake 101
+# ❄️ Snowflake 101 ❄️
 
 ## Storage
 * All data is stored in encrypted files (aka micro-partitions)
